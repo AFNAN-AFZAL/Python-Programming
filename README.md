@@ -1,5 +1,7 @@
 # Python-Programming
 Task 1 : Smart Profile Generator Using Python 
+
+
 How it Works
 •	Variables: Think of these as labeled boxes (like name or age) that hold the information the user types in.
 •	Input(): This function stops the program and lets the user type. Whatever they type gets saved into a variable.
